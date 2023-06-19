@@ -1,0 +1,15 @@
+C:\Users\kayol\source\repos\lista1KayoLucas\lista1KayoLucas\bin\Debug\net6.0\lista1KayoLucas.exe
+C:\Users\kayol\source\repos\lista1KayoLucas\lista1KayoLucas\bin\Debug\net6.0\lista1KayoLucas.deps.json
+C:\Users\kayol\source\repos\lista1KayoLucas\lista1KayoLucas\bin\Debug\net6.0\lista1KayoLucas.runtimeconfig.json
+C:\Users\kayol\source\repos\lista1KayoLucas\lista1KayoLucas\bin\Debug\net6.0\lista1KayoLucas.dll
+C:\Users\kayol\source\repos\lista1KayoLucas\lista1KayoLucas\bin\Debug\net6.0\lista1KayoLucas.pdb
+C:\Users\kayol\source\repos\lista1KayoLucas\lista1KayoLucas\obj\Debug\net6.0\lista1KayoLucas.csproj.AssemblyReference.cache
+C:\Users\kayol\source\repos\lista1KayoLucas\lista1KayoLucas\obj\Debug\net6.0\lista1KayoLucas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kayol\source\repos\lista1KayoLucas\lista1KayoLucas\obj\Debug\net6.0\lista1KayoLucas.AssemblyInfoInputs.cache
+C:\Users\kayol\source\repos\lista1KayoLucas\lista1KayoLucas\obj\Debug\net6.0\lista1KayoLucas.AssemblyInfo.cs
+C:\Users\kayol\source\repos\lista1KayoLucas\lista1KayoLucas\obj\Debug\net6.0\lista1KayoLucas.csproj.CoreCompileInputs.cache
+C:\Users\kayol\source\repos\lista1KayoLucas\lista1KayoLucas\obj\Debug\net6.0\lista1KayoLucas.dll
+C:\Users\kayol\source\repos\lista1KayoLucas\lista1KayoLucas\obj\Debug\net6.0\refint\lista1KayoLucas.dll
+C:\Users\kayol\source\repos\lista1KayoLucas\lista1KayoLucas\obj\Debug\net6.0\lista1KayoLucas.pdb
+C:\Users\kayol\source\repos\lista1KayoLucas\lista1KayoLucas\obj\Debug\net6.0\lista1KayoLucas.genruntimeconfig.cache
+C:\Users\kayol\source\repos\lista1KayoLucas\lista1KayoLucas\obj\Debug\net6.0\ref\lista1KayoLucas.dll
